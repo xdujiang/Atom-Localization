@@ -8,6 +8,7 @@ Atom Localization is a package for Atom Editor.
 - Chinese Simplified
 - Chinese Traditional
 - Danish
+- German
 
 
 ###Installation
@@ -34,6 +35,9 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
+##### Version 0.12.0
+* Add German Support.(By [André Cedik](https://github.com/andrecedik))
+
 ##### Version 0.11.0
 * Upgrade to Atom 0.72.0
 
