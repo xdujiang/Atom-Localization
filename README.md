@@ -36,7 +36,7 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
-##### Version 0.13.0
+##### Version 0.14.0
 * Add French Support. (By NickMcFlies)
 
 ##### Version 0.12.0
