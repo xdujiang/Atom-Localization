@@ -37,7 +37,7 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
-##### Version 0.2.0
+##### Version 1.0.0
 * New configuration method
 
 ##### Version 0.12.0-0.15.0
