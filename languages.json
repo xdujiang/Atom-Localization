@@ -3,5 +3,6 @@
   {"language":"Chinese - Traditional", "path":"../i18n/chinese-traditional.json"},
   {"language":"Danish", "path":"../i18n/danish.json"},
   {"language":"German", "path":"../i18n/german.json"},
-  {"language":"French", "path":"../i18n/french.json"}
+  {"language":"French", "path":"../i18n/french.json"},
+  {"language":"Japanese", "path":"../i18n/japanese.json"} 
 ]
