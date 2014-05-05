@@ -37,19 +37,16 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
-##### Version 0.15.0
+##### Version 0.2.0
+* New configuration method
+
+##### Version 0.12.0-0.15.0
 * Add Japanese Support. (By [Odyssey](https://github.com/8bitodyssey))
-
-##### Version 0.14.0
 * Add French Support. (By NickMcFlies)
-
-##### Version 0.12.0
 * Add German Support. (By [André Cedik](https://github.com/andrecedik))
 
-##### Version 0.11.0
+##### Version 0.9.0-0.11.0
 * Upgrade to Atom 0.72.0
-
-##### Version 0.9.0
 * Add Danish Support. (By [Per](https://github.com/thedataking))
 
 ##### Version 0.8.0
