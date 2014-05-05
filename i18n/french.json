@@ -88,6 +88,7 @@
             },
             "Go to Line":{"value":"Aller à la ligne"},
             "Reflow Paragraph":{"value":"Reformater le paragraphe"},
+            "Reflow Selection":{"value":"Reformater le paragraphe"},
             "Bookmark":{
                 "value":"Signets",
                 "submenu":{

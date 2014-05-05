@@ -88,6 +88,7 @@
             },
             "Go to Line":{"value":"Zu Zeile gehen"},
             "Reflow Paragraph":{"value":"Zu einem Absatz zusammenfügen"},
+            "Reflow Selection":{"value":"Zu einem Absatz zusammenfügen"},
             "Bookmark":{
                 "value":"Lesezeichen",
                 "submenu":{

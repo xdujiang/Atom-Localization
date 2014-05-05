@@ -10,6 +10,7 @@ Atom Localization is a package for Atom Editor.
 - Danish
 - French
 - German
+- Japanese
 
 
 ###Installation
@@ -36,6 +37,9 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
+##### Version 0.15.0
+* Add Japanese Support. (By [Odyssey](https://github.com/8bitodyssey))
+
 ##### Version 0.14.0
 * Add French Support. (By NickMcFlies)
 

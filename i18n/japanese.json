@@ -88,6 +88,7 @@
             },
             "Go to Line":{"value":"指定行に移動"},
             "Reflow Paragraph":{"value":"パラグラフでリフロー"},
+            "Reflow Selection":{"value":"パラグラフでリフロー"},
             "Bookmark":{
                 "value":"ブックマーク",
                 "submenu":{
