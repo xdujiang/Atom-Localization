@@ -6,5 +6,6 @@
   {"language":"Dutch", "path":"../i18n/dutch.json"},
   {"language":"German", "path":"../i18n/german.json"},
   {"language":"French", "path":"../i18n/french.json"},
-  {"language":"Japanese", "path":"../i18n/japanese.json"}
+  {"language":"Japanese", "path":"../i18n/japanese.json"},
+  {"language":"Portuguese - Brazilian", "path":"../i18n/portuguese-brazilian.json"}
 ]
