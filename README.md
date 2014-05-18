@@ -40,9 +40,10 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
-##### Version 1.2.0-1.4.0
+##### Version 1.2.0-1.6.0
 * Add Portuguese - Brazilian Support. (By [Herbert](https://github.com/herberthudson))
 * Add Dutch Support. (By [Reverp](https://github.com/Reverp/))
+* Add Traditional Chinese Support. (By [Poren](https://github.com/rschiang))
 
 ##### Version 1.0.0
 * New configuration method
@@ -64,4 +65,3 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 #####Version 0.1.0
 * Add Simplified Chinese Support
-* Add Traditional Chinese Support
