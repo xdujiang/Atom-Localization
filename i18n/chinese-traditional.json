@@ -4,174 +4,174 @@
         "value":"Atom",
         "submenu":{
             "About Atom":{"value":"關於 Atom"},
-            "View License":{"value":"閱讀許可"},
-            "Preferences...":{"value":"選項..."},
-            "Open Your Config":{"value":"打開 配置文件"},
-            "Open Your Init Script":{"value":"打開 啟動腳本"},
-            "Open Your Keymap":{"value":"打開 熱鍵設置"},
-            "Open Your Snippets":{"value":"打開 Snippets"},
-            "Open Your Stylesheet":{"value":"打開 Stylesheet"},
-            "Install Shell Commands":{"value":"安裝 Shell Commands"},
+            "View License":{"value":"檢視授權條款"},
+            "Preferences...":{"value":"選項⋯"},
+            "Open Your Config":{"value":"打開設定檔"},
+            "Open Your Init Script":{"value":"打開初始化指令檔"},
+            "Open Your Keymap":{"value":"打開鍵盤配置檔"},
+            "Open Your Snippets":{"value":"打開程式碼片段"},
+            "Open Your Stylesheet":{"value":"打開樣式表"},
+            "Install Shell Commands":{"value":"安裝 Shell 指令"},
             "Hide Atom":{"value":"隱藏 Atom"},
-            "Hide Others":{"value":"隱藏 其它"},
-            "Show All":{"value":"顯示 全部"},
-            "Quit":{"value":"退出"},
+            "Hide Others":{"value":"隱藏其他"},
+            "Show All":{"value":"顯示全部"},
+            "Quit":{"value":"結束"},
             "Check for Update":{"value":"檢查更新"}
         }
     },
     "File":{
         "value":"文件",
         "submenu":{
-            "New Window":{"value":"新窗口"},
-            "New File":{"value":"新建文件"},
-            "Open...":{"value":"打開..."},
-            "Reopen Last Item":{"value":"打開最近關閉的文件"},
-            "Save":{"value":"保存"},
-            "Save As...":{"value":"另存為..."},
-            "Save All":{"value":"全部保存"},
-            "Close Buffer":{"value":"關閉當前文件"},
-            "Close Pane":{"value":"關閉所有文件"},
-            "Close Window":{"value":"關閉窗口"}
+            "New Window":{"value":"新增視窗"},
+            "New File":{"value":"新增文件"},
+            "Open...":{"value":"打開檔案⋯"},
+            "Reopen Last Item":{"value":"重新打開上一次關閉的檔案"},
+            "Save":{"value":"儲存"},
+            "Save As...":{"value":"另存為⋯"},
+            "Save All":{"value":"儲存全部"},
+            "Close Buffer":{"value":"關閉文件"},
+            "Close Pane":{"value":"關閉窗格"},
+            "Close Window":{"value":"關閉視窗"}
         }
     },
     "Edit":{
         "value":"編輯",
         "submenu":{
-            "Undo":{"value":"撤銷"},
-            "Redo":{"value":"重做"},
-            "Cut":{"value":"剪切"},
-            "Copy":{"value":"復制"},
-            "Copy Path":{"value":"復制路徑"},
-            "Paste":{"value":"粘貼"},
+            "Undo":{"value":"還原"},
+            "Redo":{"value":"重作"},
+            "Cut":{"value":"剪下"},
+            "Copy":{"value":"拷貝"},
+            "Copy Path":{"value":"拷貝路徑"},
+            "Paste":{"value":"貼上"},
             "Select All":{"value":"全選"},
-            "Toggle Comments":{"value":"註釋/反註釋"},
+            "Toggle Comments":{"value":"註解/取消註解"},
             "Lines":{
                 "value":"行",
                 "submenu":{
-                    "Indent":{"value":"向右縮進"},
-                    "Outdent":{"value":"向左縮進"},
-                    "Auto Indent":{"value":"自動縮進"},
-                    "Move Line Up":{"value":"向上切換行"},
-                    "Move Line Down":{"value":"向下切換行"},
-                    "Duplicate Lines":{"value":"復制行"},
-                    "Delete Line":{"value":"刪除行"},
-                    "Join Lines":{"value":"合並行"}
+                    "Indent":{"value":"增加縮排"},
+                    "Outdent":{"value":"減少縮排"},
+                    "Auto Indent":{"value":"自動縮排"},
+                    "Move Line Up":{"value":"向上移動"},
+                    "Move Line Down":{"value":"向下移動"},
+                    "Duplicate Lines":{"value":"複製"},
+                    "Delete Line":{"value":"刪除"},
+                    "Join Lines":{"value":"合併所有行"}
                 }
             },
             "Text":{
-                "value":"文本",
+                "value":"文字",
                 "submenu":{
-                    "Upper Case":{"value":"轉為大小"},
+                    "Upper Case":{"value":"轉為大寫"},
                     "Lower Case":{"value":"轉為小寫"},
-                    "Delete to End of Word":{"value":"刪除到詞尾"},
+                    "Delete to End of Word":{"value":"刪除詞"},
                     "Delete Line":{"value":"刪除行"},
-                    "Transpose":{"value":"字符互換"}
+                    "Transpose":{"value":"倒置"}
                 }
             },
             "Folding":{
-                "value":"代碼折疊",
+                "value":"折疊程式碼",
                 "submenu":{
                     "Fold":{"value":"折疊"},
                     "Unfold":{"value":"展開"},
                     "Unfold All":{"value":"展開全部"},
                     "Fold All":{"value":"折疊全部"},
-                    "Fold Level 1":{"value":"折疊1層"},
-                    "Fold Level 2":{"value":"折疊2層"},
-                    "Fold Level 3":{"value":"折疊3層"},
-                    "Fold Level 4":{"value":"折疊4層"},
-                    "Fold Level 5":{"value":"折疊5層"},
-                    "Fold Level 6":{"value":"折疊6層"},
-                    "Fold Level 7":{"value":"折疊7層"},
-                    "Fold Level 8":{"value":"折疊8層"},
-                    "Fold Level 9":{"value":"折疊9層"}
+                    "Fold Level 1":{"value":"折疊 1 層"},
+                    "Fold Level 2":{"value":"折疊 2 層"},
+                    "Fold Level 3":{"value":"折疊 3 層"},
+                    "Fold Level 4":{"value":"折疊 4 層"},
+                    "Fold Level 5":{"value":"折疊 5 層"},
+                    "Fold Level 6":{"value":"折疊 6 層"},
+                    "Fold Level 7":{"value":"折疊 7 層"},
+                    "Fold Level 8":{"value":"折疊 8 層"},
+                    "Fold Level 9":{"value":"折疊 9 層"}
                 }
             },
-            "Go to Line":{"value":"跳轉到行"},
-            "Reflow Paragraph":{"value":"回流段"},
-            "Reflow Selection":{"value":"回流所選"},
+            "Go to Line":{"value":"移至行"},
+            "Reflow Paragraph":{"value":"重排段落"},
+            "Reflow Selection":{"value":"重排選取區域"},
             "Bookmark":{
-                "value":"書簽",
+                "value":"書籤",
                 "submenu":{
-                    "View All":{"value":"查看全部"},
-                    "Toggle Bookmark":{"value":"添加/移除 書簽"},
-                    "Jump to Next Bookmark":{"value":"跳轉到下壹個書簽"},
-                    "Jump to Previous Bookmark":{"value":"跳轉到上壹個書簽"}
+                    "View All":{"value":"檢視全部"},
+                    "Toggle Bookmark":{"value":"切換書籤"},
+                    "Jump to Next Bookmark":{"value":"移至下一項書籤"},
+                    "Jump to Previous Bookmark":{"value":"移至上一項書籤"}
                 }
             },
             "Select Grammar":{"value":"選擇語法"}
         }
     },
     "Selection":{
-        "value":"選擇",
+        "value":"選取區域",
         "submenu":{
-            "Add Selection Above":{"value":"添加上壹行"},
-            "Add Selection Below":{"value":"添加下壹行"},
-            "Split into Lines":{"value":"拆分成行"},
-            "Select to Top":{"value":"選擇到文件頭"},
-            "Select to Bottom":{"value":"選擇到文件尾"},
-            "Select Line":{"value":"選擇行"},
-            "Select Word":{"value":"選擇詞組"},
-            "Select to Beginning of Word":{"value":"選擇到詞首"},
-            "Select to Beginning of Line":{"value":"選擇到行首"},
-            "Select to First Character of Line":{"value":"選擇到本行第壹個字符"},
-            "Select to End of Word":{"value":"選擇到詞尾"},
-            "Select to End of Line":{"value":"選擇到行尾"}
+            "Add Selection Above":{"value":"向上選取"},
+            "Add Selection Below":{"value":"向下選取"},
+            "Split into Lines":{"value":"拆成多行"},
+            "Select to Top":{"value":"選取至頂端"},
+            "Select to Bottom":{"value":"選取至底端"},
+            "Select Line":{"value":"選取行"},
+            "Select Word":{"value":"選取詞"},
+            "Select to Beginning of Word":{"value":"選取至詞首"},
+            "Select to Beginning of Line":{"value":"選取至行首"},
+            "Select to First Character of Line":{"value":"選取至行內第一個字元"},
+            "Select to End of Word":{"value":"選取至詞尾"},
+            "Select to End of Line":{"value":"選取至行尾"}
         }
     },
     "Find":{
-        "value":"查找",
+        "value":"尋找",
         "submenu":{
-            "Find in Buffer":{"value":"當前文件中查找"},
-            "Replace in Buffer":{"value":"當前文件中替換"},
-            "Select Next":{"value":"選擇下壹個"},
+            "Find in Buffer":{"value":"在文件中搜尋"},
+            "Replace in Buffer":{"value":"在文件中取代"},
+            "Select Next":{"value":"選擇下一個項目"},
             "Select All":{"value":"選擇全部"},
-            "Find in Project":{"value":"項目中查找"},
-            "Find Next":{"value":"查找下壹個"},
-            "Find Previous":{"value":"查找上壹個"},
-            "Replace Next":{"value":"替換下壹個"},
-            "Replace All":{"value":"替換全部"},
-            "Find Buffer":{"value":"查找 打開的文件"},
-            "Find File":{"value":"查找 文件"},
-            "Find Modified File":{"value":"查找 修改過的文件"}
+            "Find in Project":{"value":"在專案中搜尋"},
+            "Find Next":{"value":"尋找下一個項目"},
+            "Find Previous":{"value":"尋找上一個項目"},
+            "Replace Next":{"value":"取代下一個項目"},
+            "Replace All":{"value":"取代全部"},
+            "Find Buffer":{"value":"尋找文件"},
+            "Find File":{"value":"尋找檔案"},
+            "Find Modified File":{"value":"尋找修改過的檔案"}
         }
     },
     "View":{
-        "value":"查看",
+        "value":"檢視",
         "submenu":{
-            "Reload":{"value":"重新載入系統"},
-            "Toggle Full Screen":{"value":"切換全屏模式"},
+            "Reload":{"value":"重新載入"},
+            "Toggle Full Screen":{"value":"切換全螢幕"},
             "Developer":{
-                "value":"開發者",
+                "value":"開發人員",
                 "submenu":{
-                    "Open In Dev Mode...":{"value":"以開發者模式運行..."},
-                    "Run Atom Specs":{"value":"運行 Atom Specs"},
-                    "Run Package Specs":{"value":"運行 Package Specs"},
-                    "Toggle Developer Tools":{"value":"開啟/關閉 開發者工具"}
+                    "Open In Dev Mode...":{"value":"在開發人員模式中開啟⋯"},
+                    "Run Atom Specs":{"value":"執行 Atom Specs"},
+                    "Run Package Specs":{"value":"執行 Package Specs"},
+                    "Toggle Developer Tools":{"value":"開發人員工具"}
                 }
             },
             "Toggle Soft Wrap":{"value":"自動換行"},
-            "Toggle Command Palette":{"value":"開啟/關閉 控制臺"},
-            "Toggle Tree View":{"value":"開啟/關閉 樹形目錄視圖"},
-            "Toggle Tree Side":{"value":"轉換樹形目錄視圖位置"}
+            "Toggle Command Palette":{"value":"切換 Command Palette"},
+            "Toggle Tree View":{"value":"切換樹狀清單"},
+            "Toggle Tree Side":{"value":"切換樹狀清單位置"}
         }
     },
     "Packages":{
-        "value":"插件"
+        "value":"套件"
     },
     "Window":{
-        "value":"窗口",
+        "value":"視窗",
         "submenu":{
             "Minimize":{"value":"最小化"},
             "Zoom":{"value":"縮放"},
-            "Bring All to Front":{"value":"置頂所有窗口"}
+            "Bring All to Front":{"value":"全部移至最上層"}
         }
     },
     "Help":{
-        "value":"幫助",
+        "value":"說明",
         "submenu":{
-            "Documentation":{"value":"文檔"},
-            "Send Feedback":{"value":"發送回饋"},
-            "Release Notes":{"value":"版本說明"}
+            "Documentation":{"value":"輔助文件"},
+            "Send Feedback":{"value":"意見回饋"},
+            "Release Notes":{"value":"版本資訊"}
         }
     }
   }
