@@ -48,7 +48,7 @@ Any translation in languages not listed above are welcome, as well as better tra
 * New configuration method
 
 ##### Version 0.12.0-0.15.0
-* Add Japanese Support. (By [Odyssey](https://github.com/8bitodyssey))
+* Add Japanese Support. (By [Odyssey](https://github.com/8bitodyssey), [kimama1997](https://github.com/kimama1997))
 * Add French Support. (By NickMcFlies)
 * Add German Support. (By [André](https://github.com/andrecedik))
 
