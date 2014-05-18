@@ -48,7 +48,7 @@
             "Lines":{
                 "value":"行",
                 "submenu":{
-                    "Indent":{"value":"インデントする"},
+                    "Indent":{"value":"インデントを追加"},
                     "Outdent":{"value":"インデントを戻す"},
                     "Auto Indent":{"value":"自動インデント"},
                     "Move Line Up":{"value":"選択中の行を上に移動"},
@@ -75,20 +75,20 @@
                     "Unfold":{"value":"折りたたみを戻す"},
                     "Unfold All":{"value":"すべての折りたたみを戻す"},
                     "Fold All":{"value":"すべて折りたたむ"},
-                    "Fold Level 1":{"value":"レベル1で折りたたむ"},
-                    "Fold Level 2":{"value":"レベル2で折りたたむ"},
-                    "Fold Level 3":{"value":"レベル3で折りたたむ"},
-                    "Fold Level 4":{"value":"レベル4で折りたたむ"},
-                    "Fold Level 5":{"value":"レベル5で折りたたむ"},
-                    "Fold Level 6":{"value":"レベル6で折りたたむ"},
-                    "Fold Level 7":{"value":"レベル7で折りたたむ"},
-                    "Fold Level 8":{"value":"レベル8で折りたたむ"},
-                    "Fold Level 9":{"value":"レベル9で折りたたむ"}
+                    "Fold Level 1":{"value":"1段階折りたたむ"},
+                    "Fold Level 2":{"value":"2段階折りたたむ"},
+                    "Fold Level 3":{"value":"3段階折りたたむ"},
+                    "Fold Level 4":{"value":"4段階折りたたむ"},
+                    "Fold Level 5":{"value":"5段階折りたむ"},
+                    "Fold Level 6":{"value":"6段階折りたたむ"},
+                    "Fold Level 7":{"value":"7段階折りたたむ"},
+                    "Fold Level 8":{"value":"8段階折りたたむ"},
+                    "Fold Level 9":{"value":"9段階折りたたむ"}
                 }
             },
             "Go to Line":{"value":"指定行に移動"},
-            "Reflow Paragraph":{"value":"パラグラフでリフロー"},
-            "Reflow Selection":{"value":"パラグラフでリフロー"},
+            "Reflow Paragraph":{"value":"パラグラフをリフロー"},
+            "Reflow Selection":{"value":"選択範囲をリフロー"},
             "Bookmark":{
                 "value":"ブックマーク",
                 "submenu":{
@@ -144,12 +144,12 @@
                 "value":"開発",
                 "submenu":{
                     "Open In Dev Mode...":{"value":"開発モードで開く"},
-                    "Run Atom Specs":{"value":"Atom 仕様を実行"},
-                    "Run Package Specs":{"value":"パッケージ 仕様を実行"},
+                    "Run Atom Specs":{"value":"Atom Specsを実行"},
+                    "Run Package Specs":{"value":"パッケージ Specs を実行"},
                     "Toggle Developer Tools":{"value":"開発者ツールの切替"}
                 }
             },
-            "Toggle Soft Wrap":{"value":"右端で折り返しの切替"},
+            "Toggle Soft Wrap":{"value":"自動折り返しの切替"},
             "Toggle Command Palette":{"value":"コマンドパレットの切替"},
             "Toggle Tree View":{"value":"ツリー表示の切替"},
             "Toggle Tree Side":{"value":"ツリーサイドの切替"}
