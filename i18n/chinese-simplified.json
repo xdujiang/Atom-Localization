@@ -140,6 +140,22 @@
         "submenu":{
             "Reload":{"value":"重新载入系统"},
             "Toggle Full Screen":{"value":"切换全屏模式"},
+            "Panes":{
+                "value":"窗格",
+                "submenu":{
+                    "Split Up":{"value":"向上分隔"},
+                    "Split Down":{"value":"向下分隔"},
+                    "Split Left":{"value":"向左分隔"},
+                    "Split Right":{"value":"向右分隔"},
+                    "Focus Next Pane":{"value":"下一个窗格"},
+                    "Focus Previous Pane":{"value":"上一个窗格"},
+                    "Focus Pane Above":{"value":"定位上方窗格"},
+                    "Focus Pane Below":{"value":"定位下方窗格"},
+                    "Focus Pane On Left":{"value":"定位左方窗格"},
+                    "Focus Pane On Right":{"value":"定位右方窗格"},
+                    "Close Pane":{"value":"关闭窗格"}
+                }
+            },
             "Developer":{
                 "value":"开发者",
                 "submenu":{
