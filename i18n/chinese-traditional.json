@@ -140,6 +140,22 @@
         "submenu":{
             "Reload":{"value":"重新載入"},
             "Toggle Full Screen":{"value":"切換全螢幕"},
+            "Panes":{
+                "value":"窗格",
+                "submenu":{
+                    "Split Up":{"value":"向上分割"},
+                    "Split Down":{"value":"向下分割"},
+                    "Split Left":{"value":"向左分割"},
+                    "Split Right":{"value":"向右分割"},
+                    "Focus Next Pane":{"value":"下一個窗格"},
+                    "Focus Previous Pane":{"value":"前一個窗格"},
+                    "Focus Pane Above":{"value":"移至上方窗格"},
+                    "Focus Pane Below":{"value":"移至下方窗格"},
+                    "Focus Pane On Left":{"value":"移至左方窗格"},
+                    "Focus Pane On Right":{"value":"移至右方窗格"},
+                    "Close Pane":{"value":"關閉窗格"}
+                }
+            },
             "Developer":{
                 "value":"開發人員",
                 "submenu":{
@@ -150,7 +166,7 @@
                 }
             },
             "Toggle Soft Wrap":{"value":"自動換行"},
-            "Toggle Command Palette":{"value":"切換 Command Palette"},
+            "Toggle Command Palette":{"value":"切換指令面板"},
             "Toggle Tree View":{"value":"切換樹狀清單"},
             "Toggle Tree Side":{"value":"切換樹狀清單位置"}
         }

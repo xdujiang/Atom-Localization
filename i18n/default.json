@@ -140,6 +140,22 @@
         "submenu":{
             "Reload":{"value":"Your Translation"},
             "Toggle Full Screen":{"value":"Your Translation"},
+            "Panes":{
+                "value":"Your Translation",
+                "submenu":{
+                    "Split Up":{"value":"Your Translation"},
+                    "Split Down":{"value":"Your Translation"},
+                    "Split Left":{"value":"Your Translation"},
+                    "Split Right":{"value":"Your Translation"},
+                    "Focus Next Pane":{"value":"Your Translation"},
+                    "Focus Previous Pane":{"value":"Your Translation"},
+                    "Focus Pane Above":{"value":"Your Translation"},
+                    "Focus Pane Below":{"value":"Your Translation"},
+                    "Focus Pane On Left":{"value":"Your Translation"},
+                    "Focus Pane On Right":{"value":"Your Translation"},
+                    "Close Pane":{"value":"Your Translation"}
+                }
+            },
             "Developer":{
                 "value":"Your Translation",
                 "submenu":{
