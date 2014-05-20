@@ -189,9 +189,9 @@
           "Bracket Matcher":{
             "value":"括弧對應",
             "submenu":{
-              "Go To Matching Bracket":"移至對應括弧",
-              "Select Inside Brackets":"選取括弧內容",
-              "Remove Brackets From Selection":"移除選取區域的括弧"
+              "Go To Matching Bracket":{"value":"移至對應括弧"},
+              "Select Inside Brackets":{"value":"選取括弧內容"},
+              "Remove Brackets From Selection":{"value":"移除選取區域的括弧"}
             }
           },
           "Command Palette":{
@@ -260,6 +260,12 @@
               "Project Symbols":{"value":"專案符號"}
             }
           },
+          "Timecop":{
+            "value":"Timecop",
+            "submenu":{
+              "Show":{"value":"顯示"}
+            }
+          },
           "Tree View":{
             "value":"樹狀清單",
             "submenu":{
@@ -267,6 +273,12 @@
               "Toggle":{"value":"切換"},
               "Reveal Active File":{"value":"顯示使用中的檔案"},
               "Toggle Tree Side":{"value":"切換左側/右側"}
+            }
+          },
+          "Whitespace":{
+            "value":"空白字元",
+            "submenu":{
+              "Remove Trailing Whitespace":{"value":"移除行尾空白"}
             }
           }
         }
