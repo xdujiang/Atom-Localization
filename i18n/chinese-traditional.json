@@ -174,10 +174,59 @@
     "Packages":{
         "value":"套件",
         "submenu":{
+          "Localization":{
+            "value":"語系",
+            "submenu":{
+              "Default":{"value":"預設"}
+            }
+          },
+          "Terminal":{
+            "value":"終端機",
+            "submenu":{
+              "Open":{"value":"啟動"}
+            }
+          },
+          "Bracket Matcher":{
+            "value":"括弧對應",
+            "submenu":{
+              "Go To Matching Bracket":"移至對應括弧",
+              "Select Inside Brackets":"選取括弧內容",
+              "Remove Brackets From Selection":"移除選取區域的括弧"
+            }
+          },
           "Command Palette":{
             "value":"指令面板",
             "submenu":{
               "Toggle":{"value":"切換"}
+            }
+          },
+          "Dev Live Reload":{
+            "value":"自動重新載入",
+            "submenu":{
+              "Reload All Styles":{"value":"重新載入所有樣式"}
+            }
+          },
+          "Git Diff":{
+            "value":"Git Diff",
+            "submenu":{
+              "Move to Next Diff":{"value":"下一個 Diff"},
+              "Move to Previous Diff":{"value":"前一個 Diff"}
+            }
+          },
+          "Markdown":{
+            "value":"Markdown",
+            "submenu":{
+              "Toggle Preview":{"value":"切換預覽"}
+            }
+          },
+          "Open On GitHub":{
+            "value":"在 GitHub 開啟",
+            "submenu":{
+              "Blame":{"value":"Blame"},
+              "Branch Compare":{"value":"比較分支"},
+              "Copy URL":{"value":"拷貝連結"},
+              "File":{"value":"檔案"},
+              "History":{"value":"歷程記錄"}
             }
           },
           "Snippets":{
@@ -196,6 +245,12 @@
               "Uninstall Themes":{"value":"移除主題"},
               "Install Packages":{"value":"安裝套件"},
               "Uninstall Packages":{"value":"移除套件"}
+            }
+          },
+          "Styleguide":{
+            "value":"樣式指南",
+            "submenu":{
+              "Show":{"value":"顯示"}
             }
           },
           "Symbols":{
