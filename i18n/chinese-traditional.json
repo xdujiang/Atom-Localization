@@ -172,7 +172,49 @@
         }
     },
     "Packages":{
-        "value":"套件"
+        "value":"套件",
+        "submenu":{
+          "Command Palette":{
+            "value":"指令面板",
+            "submenu":{
+              "Toggle":{"value":"切換"}
+            }
+          },
+          "Snippets":{
+            "value":"程式碼片段",
+            "submenu":{
+              "Expand":{"value":"展開"},
+              "Next Stop":{"value":"下一個停駐點"},
+              "Previous Stop":{"value":"前一個停駐點"}
+            }
+          },
+          "Settings View":{
+            "value":"設定檢視",
+            "submenu":{
+              "Change Themes":{"value":"變更主題"},
+              "Install Themes":{"value":"安裝主題"},
+              "Uninstall Themes":{"value":"移除主題"},
+              "Install Packages":{"value":"安裝套件"},
+              "Uninstall Packages":{"value":"移除套件"}
+            }
+          },
+          "Symbols":{
+            "value":"符號",
+            "submenu":{
+              "File Symbols":{"value":"檔案符號"},
+              "Project Symbols":{"value":"專案符號"}
+            }
+          },
+          "Tree View":{
+            "value":"樹狀清單",
+            "submenu":{
+              "Focus":{"value":"移至"},
+              "Toggle":{"value":"切換"},
+              "Reveal Active File":{"value":"顯示使用中的檔案"},
+              "Toggle Tree Side":{"value":"切換左側/右側"}
+            }
+          }
+        }
     },
     "Window":{
         "value":"視窗",
