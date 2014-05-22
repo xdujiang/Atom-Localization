@@ -35,12 +35,6 @@ module.exports =
                 menu.submenu.push(submenu)
 
     activate: (state) ->
-        fs = require('fs')
-        path = atom.packages.loadedPackages.localization.path
-        if fs.existsSync(path + '/lib/initial.coffee')
-          initial = require('./initial')
-          initial.initial()
-          fs.unlinkSync(path + '/lib/initial.coffee')
 
         @addMenu()
 
