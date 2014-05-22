@@ -13,6 +13,7 @@ Atom Localization provides translations for Atom Editor's menus.
 - German
 - Japanese
 - Portuguese - Brazilian
+- Swedish
 
 
 ###Installation
@@ -40,10 +41,12 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
-##### Version 1.2.0-1.6.0
+##### Version 1.2.0-1.8.0
 * Add Portuguese - Brazilian Support. (By [Herbert](https://github.com/herberthudson))
 * Add Dutch Support. (By [Reverp](https://github.com/Reverp/))
 * Add Traditional Chinese Support. (By [Poren](https://github.com/rschiang))
+* Add Swedish Support. (By [Jens](https://github.com/jotunskij))
+
 
 ##### Version 1.0.0
 * New configuration method
