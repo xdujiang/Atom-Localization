@@ -106,6 +106,7 @@
         "submenu":{
             "Add Selection Above":{"value":"向上選取"},
             "Add Selection Below":{"value":"向下選取"},
+            "Single Selection":{"value":"單一選取"},
             "Split into Lines":{"value":"拆成多行"},
             "Select to Top":{"value":"選取至頂端"},
             "Select to Bottom":{"value":"選取至底端"},
@@ -125,7 +126,9 @@
             "Replace in Buffer":{"value":"在文件中取代"},
             "Select Next":{"value":"選擇下一個項目"},
             "Select All":{"value":"選擇全部"},
+            "Toggle Find in Buffer":{"value":"切換文件內搜尋"},
             "Find in Project":{"value":"在專案中搜尋"},
+            "Toggle Find in Project":{"value":"切換專案內搜尋"},
             "Find Next":{"value":"尋找下一個項目"},
             "Find Previous":{"value":"尋找上一個項目"},
             "Replace Next":{"value":"取代下一個項目"},
@@ -213,8 +216,14 @@
               "Move to Previous Diff":{"value":"前一個 Diff"}
             }
           },
-          "Markdown":{
-            "value":"Markdown",
+          "Keybinding Resolver":{
+            "value":"快速鍵解析",
+            "submenu":{
+              "Toggle":{"value":"切換"}
+            }
+          },
+          "Markdown Preview":{
+            "value":"Markdown 預覽",
             "submenu":{
               "Toggle Preview":{"value":"切換預覽"}
             }
@@ -234,7 +243,8 @@
             "submenu":{
               "Expand":{"value":"展開"},
               "Next Stop":{"value":"下一個停駐點"},
-              "Previous Stop":{"value":"前一個停駐點"}
+              "Previous Stop":{"value":"前一個停駐點"},
+              "Available":{"value":"可用的"}
             }
           },
           "Settings View":{
@@ -294,6 +304,7 @@
     "Help":{
         "value":"說明",
         "submenu":{
+            "Terms of Use":{"value":"使用條款"},
             "Documentation":{"value":"輔助文件"},
             "Send Feedback":{"value":"意見回饋"},
             "Release Notes":{"value":"版本資訊"}
