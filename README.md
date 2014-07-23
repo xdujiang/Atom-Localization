@@ -14,6 +14,7 @@ Atom Localization provides translations for Atom Editor's menus.
 - Japanese
 - Portuguese - Brazilian
 - Swedish
+- Korean
 
 
 ###Installation
@@ -28,7 +29,7 @@ Any translation in languages not listed above are welcome, as well as better tra
 - Download [this json file](https://raw.github.com/pandarison/Atom-Localization/master/i18n/default.json) and replace "Your Translation" fileds.
 - You can also add translations for other menu. Just follow the format.
 - Put the file into /i18n under root directory of the package.
-- Add your language name to languages.json under the root directory of the package. 
+- Add your language name to languages.json under the root directory of the package.
 >{"language":"language name", "path":"../i18n/Your Translation.json"}
 - Make a pull request to the repo, or send the file to <Pandarison@gmail.com>
 
@@ -41,12 +42,12 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
-##### Version 1.2.0-1.8.0
+##### Version 1.2.0-1.9.0
 * Add Portuguese - Brazilian Support. (By [Herbert](https://github.com/herberthudson))
 * Add Dutch Support. (By [Reverp](https://github.com/Reverp/))
 * Add Traditional Chinese Support. (By [Poren](https://github.com/rschiang))
 * Add Swedish Support. (By [Jens](https://github.com/jotunskij))
-
+* Add Korean support. (By [Taegon](https://github.com/taggon))
 
 ##### Version 1.0.0
 * New configuration method
