@@ -9,5 +9,6 @@
   {"language":"Japanese", "path":"../i18n/japanese.json"},
   {"language":"Portuguese - Brazilian", "path":"../i18n/portuguese-brazilian.json"},
   {"language":"Swedish", "path":"../i18n/swedish.json"},
+  {"language":"Finnish", "path":"../i18n/finnish.json"},
   {"language":"Korean", "path":"../i18n/korean.json"}
 ]
