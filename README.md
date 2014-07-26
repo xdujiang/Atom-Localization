@@ -37,25 +37,28 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ## Release Notes
-##### Version 1.2.0-1.10.0
-* Add Portuguese - Brazilian Support. (By [Herbert](https://github.com/herberthudson))
-* Add Dutch Support. (By [Reverp](https://github.com/Reverp/))
-* Add Traditional Chinese Support. (By [Poren](https://github.com/rschiang))
-* Add Swedish Support. (By [Jens](https://github.com/jotunskij))
-* Add Korean support. (By [Taegon](https://github.com/taggon))
-* Add Finnish support. (By [Miro](https://github.com/mirorauhala))
+##### Version 1.10.0
+* Add Finnish support (By [Miro](https://github.com/mirorauhala))
+* Fix Traditional Chinese support
+
+##### Version 1.2.0-1.9.0
+* Add Portuguese - Brazilian support (By [Herbert](https://github.com/herberthudson))
+* Add Dutch support (By [Reverp](https://github.com/Reverp/))
+* Add Traditional Chinese support (By [Poren](https://github.com/rschiang))
+* Add Swedish support (By [Jens](https://github.com/jotunskij))
+* Add Korean support (By [Taegon](https://github.com/taggon))
 
 ##### Version 1.0.0
 * New configuration method
 
 ##### Version 0.12.0-0.15.0
-* Add Japanese Support. (By [Odyssey](https://github.com/8bitodyssey), [kimama1997](https://github.com/kimama1997))
-* Add French Support. (By NickMcFlies)
-* Add German Support. (By [André](https://github.com/andrecedik))
+* Add Japanese support (By [Odyssey](https://github.com/8bitodyssey), [kimama1997](https://github.com/kimama1997))
+* Add French support (By NickMcFlies)
+* Add German support (By [André](https://github.com/andrecedik))
 
 ##### Version 0.9.0-0.11.0
 * Upgrade to Atom 0.72.0
-* Add Danish Support. (By [Per](https://github.com/thedataking))
+* Add Danish support (By [Per](https://github.com/thedataking))
 
 ##### Version 0.8.0
 * Remove old configuration when upgrade to new version
@@ -64,4 +67,4 @@ Any translation in languages not listed above are welcome, as well as better tra
 * Fixed some bugs
 
 ##### Version 0.1.0
-* Add Simplified Chinese Support
+* Add Simplified Chinese support
