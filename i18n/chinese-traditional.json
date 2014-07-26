@@ -30,6 +30,7 @@
             "Save As...":{"value":"另存為⋯"},
             "Save All":{"value":"儲存全部"},
             "Close Buffer":{"value":"關閉文件"},
+            "Close Tab":{"value":"關閉頁籤"},
             "Close Pane":{"value":"關閉窗格"},
             "Close Window":{"value":"關閉視窗"}
         }
@@ -55,7 +56,11 @@
                     "Move Line Down":{"value":"向下移動"},
                     "Duplicate Lines":{"value":"複製"},
                     "Delete Line":{"value":"刪除"},
-                    "Join Lines":{"value":"合併所有行"}
+                    "Join Lines":{"value":"合併所有行"},
+                    "Sort":{"value":"排序"},
+                    "Reverse Sort":{"value":"逆向排序"},
+                    "Unique":{"value":"唯一"},
+                    "Sort (Case Insensitive)":{"value":"排序（不區分大小寫）"}
                 }
             },
             "Text":{
@@ -194,7 +199,9 @@
             "submenu":{
               "Go To Matching Bracket":{"value":"移至對應括弧"},
               "Select Inside Brackets":{"value":"選取括弧內容"},
-              "Remove Brackets From Selection":{"value":"移除選取區域的括弧"}
+              "Remove Brackets From Selection":{"value":"移除選取區域的括弧"},
+              "Close Current Tag":{"value":"關閉目前標籤"},
+              "Remove Matching Brackets":{"value":"移除對應括弧"}
             }
           },
           "Command Palette":{
@@ -213,7 +220,8 @@
             "value":"Git Diff",
             "submenu":{
               "Move to Next Diff":{"value":"下一個 Diff"},
-              "Move to Previous Diff":{"value":"前一個 Diff"}
+              "Move to Previous Diff":{"value":"前一個 Diff"},
+              "Toggle Diff List":{"value":"切換 Diff 清單"}
             }
           },
           "Keybinding Resolver":{
@@ -288,7 +296,9 @@
           "Whitespace":{
             "value":"空白字元",
             "submenu":{
-              "Remove Trailing Whitespace":{"value":"移除行尾空白"}
+              "Remove Trailing Whitespace":{"value":"移除行尾空白"},
+              "Convert Tabs To Spaces":{"value":"Tab 轉為空白"},
+              "Convert Spaces To Tabs":{"value":"空白轉為 Tab"}
             }
           }
         }
