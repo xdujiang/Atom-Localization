@@ -24,7 +24,7 @@
         "submenu":{
             "New Window":{"value":"Uusi ikkuna"},
             "New File":{"value":"Uusi tiedosto"},
-            "Open...":{"value":"Avaa kansio"},
+            "Open...":{"value":"Avaa..."},
             "Reopen Last Item":{"value":"Avaa uudelleen viimeisin kohde"},
             "Save":{"value":"Tallena"},
             "Save As...":{"value":"Tallenna nimellä..."},
