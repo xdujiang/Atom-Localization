@@ -37,6 +37,10 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ## Release Notes
+##### Version 1.11.0
+* Update German translation (By [Bengt](https://github.com/Bengt))
+* Fix Finnish translation
+
 ##### Version 1.10.0
 * Add Finnish support (By [Miro](https://github.com/mirorauhala))
 * Fix Traditional Chinese support
