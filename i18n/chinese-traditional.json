@@ -168,8 +168,8 @@
                 "value":"開發人員",
                 "submenu":{
                     "Open In Dev Mode...":{"value":"在開發人員模式中開啟⋯"},
-                    "Run Atom Specs":{"value":"執行 Atom Specs"},
-                    "Run Package Specs":{"value":"執行 Package Specs"},
+                    "Run Atom Specs":{"value":"執行 Atom 規格測試"},
+                    "Run Package Specs":{"value":"執行套件規格測試"},
                     "Toggle Developer Tools":{"value":"開發人員工具"}
                 }
             },
