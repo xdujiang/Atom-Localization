@@ -40,10 +40,12 @@ Any translation in languages not listed above are welcome, as well as better tra
 ##### Version 1.11.0
 * Update German translation (By [Bengt](https://github.com/Bengt))
 * Fix Finnish translation
+* **1.11.1**: Update translation template
+* **1.11.1**: Fix Traditional Chinese translation
 
 ##### Version 1.10.0
 * Add Finnish support (By [Miro](https://github.com/mirorauhala))
-* Fix Traditional Chinese support
+* Fix Traditional Chinese translation
 
 ##### Version 1.2.0-1.9.0
 * Add Portuguese - Brazilian support (By [Herbert](https://github.com/herberthudson))
