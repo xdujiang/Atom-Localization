@@ -181,7 +181,7 @@
         "value":"Fenêtre",
         "submenu":{
             "Minimize":{"value":"Réduire"},
-            "Zoom":{"value:"Agrandir"},
+            "Zoom":{"value":"Agrandir"},
             "Bring All to Front":{"value":"Tout ramener au premier plan"}
         }
     },
