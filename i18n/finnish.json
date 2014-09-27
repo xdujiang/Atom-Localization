@@ -29,7 +29,7 @@
             "Save":{"value":"Tallena"},
             "Save As...":{"value":"Tallenna nimellä..."},
             "Save All":{"value":"Tallenna kaikki"},
-            "Close Buffer":{"value":"Sulje tiedosto"},
+            "Close Tab":{"value":"Sulje tiedosto"},
             "Close Pane":{"value":"Sulje kaikki tiedostot"},
             "Close Window":{"value":"Sulje ikkuna"}
         }
