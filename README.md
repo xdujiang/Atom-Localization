@@ -37,6 +37,10 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ## Release Notes
+##### Version 1.15.0
+* Update French translation (By [Rastus](https://github.com/rastus-vernon))
+* Replace "Close Buffer" with "Close Tab" (see #21)
+
 ##### Version 1.11.0
 * Update German translation (By [Bengt](https://github.com/Bengt))
 * Fix Finnish translation
