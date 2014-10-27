@@ -16,7 +16,9 @@
             "Hide Others":{"value":"Your Translation"},
             "Show All":{"value":"Your Translation"},
             "Quit":{"value":"Your Translation"},
-            "Check for Update":{"value":"Your Translation"}
+            "Restart and Install Update":{"value":"Your Translation"},
+            "Check for Update":{"value":"Your Translation"},
+            "Downloading Update":{"value":"Your Translation"}
         }
     },
     "File":{
