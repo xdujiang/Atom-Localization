@@ -11,4 +11,5 @@
   {"language":"Swedish", "path":"../i18n/swedish.json"},
   {"language":"Korean", "path":"../i18n/korean.json"},
   {"language":"Finnish", "path":"../i18n/finnish.json"}
+  {"language":"Spanish", "path":"../i18n/spanish.json"}
 ]
