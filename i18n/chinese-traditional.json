@@ -16,7 +16,9 @@
             "Hide Others":{"value":"隱藏其他"},
             "Show All":{"value":"顯示全部"},
             "Quit":{"value":"結束"},
-            "Check for Update":{"value":"檢查更新"}
+            "Restart and Install Update":{"value":"重新啟動並安裝更新"},
+            "Check for Update":{"value":"檢查更新"},
+            "Downloading Update":{"value":"正在下載更新"}
         }
     },
     "File":{
@@ -90,6 +92,7 @@
                     "Fold Level 9":{"value":"折疊 9 層"}
                 }
             },
+            "Select Encoding":{"value":"選擇編碼"},
             "Go to Line":{"value":"移至行"},
             "Reflow Paragraph":{"value":"重排段落"},
             "Reflow Selection":{"value":"重排選取區域"},
@@ -315,6 +318,11 @@
         "submenu":{
             "Terms of Use":{"value":"使用條款"},
             "Documentation":{"value":"輔助文件"},
+            "Roadmap":{"value":"發展藍圖"},
+            "Frequently Asked Questions":{"value":"常見問題"},
+            "Community Discussions":{"value":"社群討論"},
+            "Report Issue":{"value":"回報問題"},
+            "Search Issue":{"value":"搜尋問題"},
             "Send Feedback":{"value":"意見回饋"},
             "Release Notes":{"value":"版本資訊"}
         }
