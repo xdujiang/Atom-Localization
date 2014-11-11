@@ -6,17 +6,19 @@
             "About Atom":{"value":"Acerca de Atom"},
             "View License":{"value":"Ver licencia"},
             "Preferences...":{"value":"Preferencias..."},
-            "Open Your Config":{"value":"Abrir tu configuración"},
-            "Open Your Init Script":{"value":"Abrir tu Init Script"},
-            "Open Your Keymap":{"value":"Abrir tu mapa de teclado"},
-            "Open Your Snippets":{"value":"Abrir tus recortes"},
-            "Open Your Stylesheet":{"value":"Abrir tu hoja de estilo"},
-            "Install Shell Commands":{"value":"Instalar comandos Shell"},
+            "Open Your Config":{"value":"Abrir configuración"},
+            "Open Your Init Script":{"value":"Abrir script de inicio"},
+            "Open Your Keymap":{"value":"Abrir atajos de teclado"},
+            "Open Your Snippets":{"value":"Abrir snippets"},
+            "Open Your Stylesheet":{"value":"Abrir hoja de estilo"},
+            "Install Shell Commands":{"value":"Instalar comandos shell"},
             "Hide Atom":{"value":"Ocultar Atom"},
             "Hide Others":{"value":"Ocultar otros"},
             "Show All":{"value":"Mostrar todo"},
             "Quit":{"value":"Salir"},
-            "Check for Update":{"value":"Comprobar actualizaciones"}
+            "Restart and Install Update":{"value":"Reiniciar y actualizar"},
+            "Check for Update":{"value":"Comprobar actualizaciones"},
+            "Downloading Update":{"value":"Descargando actualizaciones"}
         }
     },
     "File":{
@@ -25,7 +27,7 @@
             "New Window":{"value":"Nueva ventana"},
             "New File":{"value":"Nuevo archivo"},
             "Open...":{"value":"Abrir..."},
-            "Reopen Last Item":{"value":"Reabrir último archivo"},
+            "Reopen Last Item":{"value":"Reabrir último fichero"},
             "Save":{"value":"Guardar"},
             "Save As...":{"value":"Guardar como..."},
             "Save All":{"value":"Guardar todo"},
@@ -182,16 +184,16 @@
         "submenu":{
             "Minimize":{"value":"Minimizar"},
             "Zoom":{"value":"Zoom"},
-            "Bring All to Front":{"value":"Traer todo al frente"}
+            "Bring All to Front":{"value":"Traer al frente"}
         }
     },
     "Help":{
         "value":"Ayuda",
         "submenu":{
-            "Terms of Use":{"value":"Terminos de uso"},
+            "Terms of Use":{"value":"Términos de uso"},
             "Documentation":{"value":"Documentación"},
-            "Send Feedback":{"value":"Enviar Feedback"},
-            "Release Notes":{"value":"Notas de version"}
+            "Send Feedback":{"value":"Enviar feedback"},
+            "Release Notes":{"value":"Notas de la versión"}
         }
     }
   }
