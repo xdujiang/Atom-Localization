@@ -88,6 +88,7 @@
                     "Fold Level 9":{"value":"Your Translation"}
                 }
             },
+            "Select Encoding":{"value":"Your Translation"},
             "Go to Line":{"value":"Your Translation"},
             "Reflow Paragraph":{"value":"Your Translation"},
             "Reflow Selection":{"value":"Your Translation"},
@@ -192,6 +193,11 @@
         "submenu":{
             "Terms of Use":{"value":"Your Translation"},
             "Documentation":{"value":"Your Translation"},
+            "Roadmap":{"value":"Your Translation"},
+            "Frequently Asked Questions":{"value":"Your Translation"},
+            "Community Discussions":{"value":"Your Translation"},
+            "Report Issue":{"value":"Your Translation"},
+            "Search Issue":{"value":"Your Translation"},
             "Send Feedback":{"value":"Your Translation"},
             "Release Notes":{"value":"Your Translation"}
         }
