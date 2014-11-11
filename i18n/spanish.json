@@ -9,7 +9,7 @@
             "Open Your Config":{"value":"Abrir configuración"},
             "Open Your Init Script":{"value":"Abrir script de inicio"},
             "Open Your Keymap":{"value":"Abrir atajos de teclado"},
-            "Open Your Snippets":{"value":"Abrir snippets"},
+            "Open Your Snippets":{"value":"Abrir tus recortes"},
             "Open Your Stylesheet":{"value":"Abrir hoja de estilo"},
             "Install Shell Commands":{"value":"Instalar comandos shell"},
             "Hide Atom":{"value":"Ocultar Atom"},
@@ -27,7 +27,7 @@
             "New Window":{"value":"Nueva ventana"},
             "New File":{"value":"Nuevo archivo"},
             "Open...":{"value":"Abrir..."},
-            "Reopen Last Item":{"value":"Reabrir último fichero"},
+            "Reopen Last Item":{"value":"Reabrir último archivo"},
             "Save":{"value":"Guardar"},
             "Save As...":{"value":"Guardar como..."},
             "Save All":{"value":"Guardar todo"},
@@ -184,7 +184,7 @@
         "submenu":{
             "Minimize":{"value":"Minimizar"},
             "Zoom":{"value":"Zoom"},
-            "Bring All to Front":{"value":"Traer al frente"}
+            "Bring All to Front":{"value":"Traer todo al frente"}
         }
     },
     "Help":{
@@ -193,7 +193,7 @@
             "Terms of Use":{"value":"Términos de uso"},
             "Documentation":{"value":"Documentación"},
             "Send Feedback":{"value":"Enviar feedback"},
-            "Release Notes":{"value":"Notas de la versión"}
+            "Release Notes":{"value":"Notas de versión"}
         }
     }
   }
