@@ -15,6 +15,7 @@ Atom Localization provides translations for Atom Editor's menus.
 - Swedish
 - Korean
 - Finnish
+- Spanish
 
 
 ## Installation
@@ -37,6 +38,10 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ## Release Notes
+
+##### Version 1.16.0
+* Add Spanish translation (By [Adrian](https://github.com/adsase) & [FerNT](https://github.com/fejnartal))
+
 ##### Version 1.15.0
 * Update French translation (By [Rastus](https://github.com/rastus-vernon))
 * Replace "Close Buffer" with "Close Tab" (see #21)
