@@ -43,6 +43,7 @@ Any translation in languages not listed above are welcome, as well as better tra
 * Add Spanish translation (By [Adrian](https://github.com/adsase) & [FerNT](https://github.com/fejnartal))
 * Update Traditional Chinese translation
 * Update translation template
+* **1.16.1**: Update Spanish translation
 
 ##### Version 1.15.0
 * Update French translation (By [Rastus](https://github.com/rastus-vernon))
