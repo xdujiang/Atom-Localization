@@ -42,7 +42,7 @@
             "Undo":{"value":"還原"},
             "Redo":{"value":"重作"},
             "Cut":{"value":"剪下"},
-            "Copy":{"value":"拷貝"},
+            "Copy":{"value":"複製"},
             "Copy Path":{"value":"拷貝路徑"},
             "Paste":{"value":"貼上"},
             "Select All":{"value":"全選"},
